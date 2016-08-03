@@ -32,7 +32,7 @@ KEB하나은행의 환율 가져오기
 ```js
 const magicfx = require('magicfx');
 magicfx.parse('KEBHANA').then(
-    (data) => { console.log(data) }, 
+    (rate) => { console.log(rate) }, 
     (err) => { console.error(err) }
 )
 ```
@@ -46,7 +46,7 @@ KEB하나은행의 환율 요청 시 반환값 예시
 ```js
 const magicfx = require('magicfx');
 magicfx.parse('V', 'JPY').then(
-    (data) => { console.log(data) }, 
+    (rate) => { console.log(rate) }, 
     (err) => { console.error(err) }
 )
 ```
