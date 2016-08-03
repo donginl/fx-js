@@ -1,12 +1,12 @@
 # MagicFX
 
 [![Build Status](https://travis-ci.org/donginl/magicfx.svg?branch=master)](https://travis-ci.org/donginl/magicfx)
-[![NPM](https://img.shields.io/npm/v/magicfx.svg)](https://npmjs.org/package/quickotp)
+[![NPM](https://img.shields.io/npm/v/magicfx.svg)](https://npmjs.org/package/magicfx)
 [![NPM Downloads](https://img.shields.io/npm/dm/magicfx.svg)](https://npmjs.org/package/magicfx)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/donginl/magicfx/blob/master/LICENSE)
 [![Donate](https://img.shields.io/gratipay/donginl.svg)](https://gratipay.com/donginl)
 
-비자카드, 마스터카드 그리고 국내 시중은행의 환율 정보를 받아오는 라이브러리입니다.
+비자카드, 마스터카드 그리고 국내 시중은행의 환율 정보를 받아오는 라이브러리입니다.<br/>
 비자카드와 마스터카드 환율은 달러로 반환됩니다
 
 ## 요구조건
