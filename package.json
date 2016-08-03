@@ -1,7 +1,7 @@
 {
   "name": "magicfx",
   "version": "1.0.0",
-  "description": "",
+  "description": "Awesome parser for worldwide fx rates",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -10,6 +10,7 @@
   "author": "donginl",
   "license": "MIT",
   "dependencies": {
+    "async": "^2.0.1",
     "cheerio": "^0.20.0",
     "moment-timezone": "^0.5.5",
     "request": "^2.74.0",
