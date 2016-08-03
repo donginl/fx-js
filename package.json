@@ -1,0 +1,25 @@
+{
+  "name": "magicfx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/donginl/magicfx.git"
+  },
+  "author": "donginl",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "moment-timezone": "^0.5.5",
+    "request": "^2.74.0",
+    "xml2js": "^0.4.17"
+  },
+  "bugs": {
+    "url": "https://github.com/donginl/magicfx/issues"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "homepage": "https://github.com/magicfx/quickotp"
+}
